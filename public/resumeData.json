@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "My Denture Direct",
+    "description": "Licensed Clinician Dental Technician",
+    "image": "khalid.png",
+    "bio": "My name is khalid, I am a licensed clinician &amp; dental technician with over 44 years of experience and many satisfied customers! My team and I use cutting edge &nbsp;technology to craft high-quality dentures DIRECT to you! The bespoke fit will improve your smile and really increase your confidence.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ehyaiimk@gmail.com",
+    "phone": "+44-7775-882818",
+    "github": "https://www.google.com/maps/dir//Dental+Surgery,+103A+Golders+Green+Rd,+London+NW11+8EN,+UK/@51.5729674,-0.2041355,16z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x4876109a1d601181:0xc1e91be1736252c7!2m2!1d-0.1997581!2d51.5729675?entry=ttu",
+    "project": "#about",
+    "address": {
+      "street": "denture direct 103a Golders Green road Golders Green ",
+      "city": "London",
+      "state": "UK",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://wa.link/ud8am4",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/denturedirectuk/",
+        "className": "fab fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/mkehyaii?igshid=MzRlODBiNWFlZA==",
+        "className": "fab fa-instagram"
+      },
+      {
+        "name": "whatsapp",
+        "url": "https://wa.link/ud8am4",
+        "className": "fab fa-whatsapp"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Price List",
+    "education": [
+      {
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2017",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2013",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Our Mission",
+        "title": "",
+        "years": "",
+        "description": "I started my own laboratory in 1984 in London supplying dentures to local dentists. I recognized a need for high-quality dentures with an individual service and Dentures Direct was founded.I began my education training in 1979 as an apprentice dental technician where I completed a comprehensive course on all. aspects of dental technology. I specialise in a field of dental technology called 'prosthetics'. I am continuing my development in advanced techniques in implantology."
+      },
+      {
+        "company": "Come Visit Us!",
+        "title": "You're not asking too much! We are the experts in creating all types of natural-looking dentures that once expertly fitted, will restore your smile and transform your appearance. Our professional Clinical Dental Technicians can put an end to any denture embarrassment and self-consciousness",
+        "years": "",
+        "description": "Do you feel self-conscious and embarrassed about your dentures? \t Do you have worn down teeth, gum disease, failing crowns and bridges, or loose partial dentures? \t Are many of your teeth loose and do you fear the worst? \t Do you feel it's too late to save your remaining teeth and are you looking for a long-term solution? \t The answer to all of these questions can be solved with a simple consultation with me. I have been practicing the art of making dentures for the last 40 years."
+      }
+    ],
+    "skills": [
+      {
+        "name": "The Services We Offer",
+        "level": "Call us for an appointment to discuss a specific quote for you."
+      },
+      {
+        "name": "Flexible Dentures",
+        "level": "Starting from £450"
+      },
+      {
+        "name": "Acrylic Dentures",
+        "level": "Starting from £800"
+      },
+      {
+        "name": "Partial Dentures",
+        "level": "Starting from £350"
+      },
+      {
+        "name": "Implant Based Dentures",
+        "level": "Prices vary, give us a call to dicuss."
+      },
+      {
+        "name": "Addition/Repairs",
+        "level": "Starting from £80"
+      },
+      {
+        "name": "Cobalt Chrome",
+        "level": "Starting from £1000"
+      }
+    ],
+    "FQ": [
+      {
+        "question": "What is a denture?",
+        "title": "Tooth loss can occur for several reasons such as periodontal disease, decay or trauma. It is important that you have regular check ups with your dentist and that you have any missing teeth replaced as soon as you possibly can to prevent any excess wear to existing teeth in the long terms. A denture is a removable artificial tooth or set of teeth that replaces missing teeth in either the upper or lower jaw or both in the most severe cases of tooth loss."
+      },
+      {
+        "question": "What types of dentures are there?",
+        "title": "Dentures are generally fabricated from acrylic resins. With advances in modern cosmetic dentistry there are a wide variety of materials available for dentures. if you are missing all of your teeth then a complete set of upper and lower dentures is used to replace them. it may well be easier to remove one or two remaining teeth to allow a complete set of dentures to be worn."
+      },
+      {
+        "question": "How long do dentures last?",
+        "title": "As you age your dentures can begin to feel loose as your gums shrink back and your bite pattern changes. If the problem becomes severe it may be that you need a new set of dentures measuring and fitting. However in some instances it is possible that some simple modifications to your existing set of dentures may rectify the problem. You should always make sure you take care of your dentures and clean them frequently. The length of time your dentures last also depends on how much use you give them as they will suffer from natural wear / tear as time goes by.."
+      },
+      {
+        "question": "The Procedure",
+        "title": "The first thing your cosmetic dentist will do at your initial meeting will be to examine your mouth and gums to decide your suitability for having dentures fitted. If you have a few existing teeth it may be that some of your existing teeth may need to be removed first. If this is thecase your cosmetic dentist will explain the reasons why your teeth need removing before proceeds to the impression stage of the treatment.The extraction of any  teeth can usually take place at your initial appointment. "
+      },
+      {
+        "question": "Cosmetic Dentures",
+        "title": "Even with all the advances of modern dentistry, your teeth may not last forever. We can however, offer many options for replacing lost or extracted teeth. One such option are cosmetic dentures. Our beautifully designed dentures, are made with teeth that have multiple layers of colour and varying degrees of translucency to enable you to have a natural, youthful appearance."
+      }
+    ]
+  }
+}
